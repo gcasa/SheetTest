@@ -1,4 +1,0 @@
-{
-    NSMainNibFile = MainMenu;
-    NSPrincipalClass = NSApplication;
-}
